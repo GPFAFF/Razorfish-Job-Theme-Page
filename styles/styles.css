@@ -1,0 +1,195 @@
+body{
+    background: url('../img/wood.png') repeat;
+
+}
+.container{
+    margin: 0px auto 0 auto;
+    background: #e3e3e3;
+    width: 720px;
+    opacity: .9;
+    border-radius: 10px;
+    box-shadow: 34px 14px 34px black;
+    height: 1230px;
+    padding: 20px;
+}
+
+a{
+    color: black;
+}
+nav{
+    font-size: 35px;
+    position: fixed;
+    top: 2;
+    left: 3;   
+    height: 180px;
+    width: 165px;
+    -webkit-box-shadow: 3px 3px 8px 3px #000000;
+    -moz-box-shadow: 3px 3px 8px 3px #000000;
+    box-shadow: 3px 3px 8px 3px #000000;
+    /* Adds the transparent background */
+    background-color: #aabc10;
+    color: #f77700;
+    opacity: .79;
+    text-align: left;
+    border-radius: 8px;
+    line-height: 40px;
+    margin-top: 10px;
+    margin-left: 25px;
+	font-family: 'Pompiere', cursive;
+   
+}
+   
+nav a {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    text-shadow: 3px 3px 4px white;
+   
+}
+
+nav a:hover {
+    color: white;
+}
+
+nav ul{
+    list-style-type: none;
+   
+   
+}
+nav li{
+    text-align: center;
+    margin-right: 45px;
+    margin-top: -5px;
+    padding: 1px;
+}
+
+h1{
+    text-align: center;
+	margin-top: -20px;
+
+}
+.socialnav {
+    font-size: 32px;
+    margin: 0 auto;
+      text-decoration: none;
+    margin-top: -50px;
+}
+
+.socialnav a{
+        text-decoration: none;
+        color: black;
+        font-family: 'IM Fell French Canon SC', serif;
+        text-shadow: 3px 6px 6px gray;
+        font-size: 18px;
+        }
+       
+.socialnav a:hover{
+    color: #aabc10;
+}
+.socialnav ul {
+    list-style-type: none;
+    width:770px;
+    margin: 0 auto;
+}
+
+.socialnav li {
+    text-decoration: none;
+    display: inline;
+    padding: 3px;
+    margin-right: 60px;
+}
+
+h4{
+    margin-top: 8px;
+    font-size: 20px;
+    font-family: 'IM Fell French Canon SC', serif;
+    padding: 10px;
+}
+h5{
+    font-size: 14px;
+    margin-top: -25px;
+    padding: 10px;
+    font-family: 'IM Fell French Canon SC', serif;
+   
+}
+
+h6{
+    text-align: center;
+    font-size: 13px;
+    font-family: 'IM Fell French Canon SC', serif;
+   
+}
+
+.jobnav{
+    margin-top: -30px;
+}
+.jobnav img{
+     margin-bottom: -4px;
+}
+.jobnav a:hover{
+    opacity: .45;
+}
+
+table{
+     margin-left: 50px;
+	 font-color: white;
+   
+}
+th{
+    margin:10px;
+	color: black;
+	
+   
+}
+td{
+    text-align: center;
+    background: #aabc10;
+    opacity: .9;
+	font-family: 'Pompiere', cursive;    
+}
+
+th a, td a{
+	text-decoration: none;
+}
+th a:hover, td a:hover{
+	color: black;
+	
+}
+p{
+    line-height: 15px;
+	font-family: 'Pompiere', cursive;    
+	padding: 2px;
+}
+
+footer ul{
+	list-style-type: none;
+	width: 650px;
+}
+footer li{
+display: inline;
+text-align: center;
+float: right;
+
+}
+.wood{
+    text-shadow: 1px 1px 1px black;
+}
+
+.wood p{
+	text-align: center;
+	width: 620px;
+	margin-left:275px;
+	color: #aabc10;
+	padding: 20px;
+	font-size: 18px;
+	line-height: 20px;
+}
+
+footer{
+    background: url('../img/linen.png') repeat;
+    height: 268px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    
+}
